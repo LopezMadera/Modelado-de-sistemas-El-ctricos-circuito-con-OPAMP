@@ -1,0 +1,1 @@
+# Modelado-de-sistemas-El-ctricos-circuito-con-OPAMP
